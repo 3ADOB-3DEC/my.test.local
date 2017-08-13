@@ -1,0 +1,10 @@
+body {
+  padding: 0;
+  padding-top: 100px;
+}
+div#yandex-map-container {
+  min-width: 1px;
+  min-height: 1px;
+  width: 100%;
+  height: 400px;
+}
